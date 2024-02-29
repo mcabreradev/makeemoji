@@ -2,7 +2,7 @@ repo_name: mcabreradev/makeemoji
 report_id: b80f0784b5fdb2b926179a91c36e3a40
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:44:27+00:00'
+timestamp: '2024-02-29T18:44:50+00:00'
 requested_by: mpopv
 provider: github
 branch: master
@@ -150,7 +150,7 @@ tools:
   last_updated_by: Matt Popovich
   last_updated_on: 2020-01-11 23:16:13.000000000 Z
 - name: Monit
-  description: 'A free, open-source process supervision tool '
+  description: A free, open-source process supervision tool
   website_url: https://mmonit.com
   open_source: false
   hosted_saas: false
@@ -162,7 +162,7 @@ tools:
   last_updated_by: Matt Popovich
   last_updated_on: 2020-01-14 01:39:28.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
